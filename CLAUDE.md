@@ -7,7 +7,6 @@ This is a blog focused on:
 - life balance and recovery
 - emotional support for mothers
 - child health (practical, non-medical guidance)
-
 The goal:
 → help mothers feel calmer, supported, and informed  
 → avoid anxiety, guilt, and overwhelming tone 
@@ -17,7 +16,6 @@ The goal:
 Primary audience:
 - mothers with babies (0–2 years)
 - tired, overwhelmed, seeking reassurance
-
 Secondary:
 - pregnancy / early motherhood
 
@@ -55,11 +53,10 @@ When relevant:
 
 - Avoid absolute statements about child health
 
-
 ## Stack
 - Astro 6, TypeScript
 - MDX, RSS, Sitemap plugins
-- Deploy: Vercel
+- Deploy: [Vercel](https://vercel.com)
 - Node >= 22.12.0
 
 ## Structure
