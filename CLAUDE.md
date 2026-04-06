@@ -8,8 +8,8 @@ This is a blog focused on:
 - emotional support for mothers
 - child health (practical, non-medical guidance)
 The goal:
-→ help mothers feel calmer, supported, and informed  
-→ avoid anxiety, guilt, and overwhelming tone 
+- help mothers feel calmer, supported, and informed  
+- avoid anxiety, guilt, and overwhelming tone 
 
 ## Audience
 Primary audience:
@@ -30,12 +30,10 @@ Avoid:
 - strong claims without nuance
 
 ## Content principles
-- Practical > theoretical
 - Gentle guidance instead of strict rules
 - Normalize struggles (sleep, feeding, emotions, burnout)
 - Respect different parenting styles
 - Do not shame or blame
-When relevant:
 - Include small actionable tips
 - Suggest options, not one “correct” way
 
