@@ -1,0 +1,31 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash /Users/mariyashpilevskaya/.claude/statusline-command.sh"
+  },
+  "permissions": {
+    "defaultMode": "default",
+
+    "allow": [
+      "Bash(npm *)",
+      "Bash(npm run *)",
+      "Bash(git status)",
+      "Bash(git diff)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ],
+
+    "ask": [
+      "Bash(git push *)",
+      "Bash(git pull *)"
+    ],
+
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(sudo *)",
+      "Read(.env)",
+      "Read(.env.*)",
+      "Read(secrets/**)"
+    ]
+  }
+}
