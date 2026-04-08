@@ -29,13 +29,12 @@ Avoid:
 - overly technical medical language
 - strong claims without nuance
 
-## Content principles
-- Gentle guidance instead of strict rules
-- Normalize struggles (sleep, feeding, emotions, burnout)
-- Respect different parenting styles
-- Do not shame or blame
-- Include small actionable tips
-- Suggest options, not one “correct” way
+## Content Style
+- Voice: Write in first person (“I”, “we”), like talking to a friend, not teaching
+- Tone: Warm, calm, supportive — honest and relatable, no pressure or judgment
+- Language: Simple, everyday words; light colloquial tone + occasional emojis 🙂
+- Style: Conversational flow (not rigid), soft transitions, relatable subtitles
+- Guidance: Suggest gently (“you can try”), no diagnosing, no strict advice, no fear-based language
 
 ## Safety 
 - Do NOT provide medical diagnosis
