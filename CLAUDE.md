@@ -59,19 +59,44 @@ Avoid:
 
 ## Article format
 Each article is a `.md` file in `src/content/blog/`
-Frontmatter:
+
+**Frontmatter:**
 
 ```markdown
 ---
 title: 'Clear, calm title'
 description: 'Short supportive summary (2–3 sentences)'
 pubDate: 'YYYY-MM-DD'
+# updatedDate: 'YYYY-MM-DD'        — add only if the article was revised after publishing
+heroImage: '../../assets/covers/my-cover.jpg'  # recommended; shown in blog listing cards
 tags: ['motherhood', 'mental health']
-source: 'optional'
+# source: 'https://...'            — optional; cite if article references a specific source
+---
+```
+
+**Body structure (300–500 words):**
+
+```markdown
+Opening paragraph — 2–3 sentences, conversational, sets the emotional tone.
+
+## Section heading (relatable, not clinical)
+
+Body of section. ~80–120 words. First person, soft tone.
+
+## Section heading
+
+Body of section.
+
+## Small things that can help
+
+Gentle suggestions here.
+
 ---
 
-Article body. 300–500 words.
+One-liner closing. Reassuring. Optional emoji. 💛
 ```
+
+> Cover images go in `src/assets/` and are referenced with a relative path from the article file.
 
 ## Dev commands
 - `npm run dev` — dev server on :4321

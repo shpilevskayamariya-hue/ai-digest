@@ -2,6 +2,7 @@
 title: "The First Three Months Are Hard — and That's Not Just You"
 description: 'A gentle, honest look at postpartum depression — what it really feels like, how to support yourself in the early months, and when it might help to reach out.'
 pubDate: '2026-04-08'
+heroImage: '../../assets/postpartum-cover.png.png'
 tags: ['motherhood', 'mental health', 'postpartum']
 ---
 
