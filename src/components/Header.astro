@@ -11,6 +11,16 @@ import HeaderLink from './HeaderLink.astro';
 			<HeaderLink href="/blog">Blog</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
+		<!-- Search input — filtering logic lives in blog/index.astro; on other pages Enter navigates to /blog?q=... -->
+		<div class="search-wrapper">
+			<input
+				id="search-input"
+				type="search"
+				placeholder="Search articles…"
+				autocomplete="off"
+				aria-label="Search articles"
+			/>
+		</div>
 		<div class="social-links">
 			<a href="https://m.webtoo.ls/@astro" target="_blank">
 				<span class="sr-only">Follow Astro on Mastodon</span>
@@ -77,9 +87,57 @@ import HeaderLink from './HeaderLink.astro';
 	.social-links a {
 		display: flex;
 	}
+	.search-wrapper {
+		flex: 1;
+		display: flex;
+		justify-content: center;
+		padding: 0 1rem;
+	}
+	#search-input {
+		width: 100%;
+		max-width: 260px;
+		padding: 0.35em 0.75em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 20px;
+		font-size: 0.9em;
+		color: rgb(var(--black));
+		background: rgb(var(--gray-light), 0.4);
+		outline: none;
+		transition: border-color 0.2s ease, box-shadow 0.2s ease;
+	}
+	#search-input:focus {
+		border-color: var(--accent);
+		box-shadow: 0 0 0 2px rgba(35, 55, 255, 0.15);
+	}
+	#search-input::placeholder {
+		color: rgb(var(--gray));
+	}
 	@media (max-width: 720px) {
 		.social-links {
 			display: none;
 		}
+		.search-wrapper {
+			padding: 0 0.5rem;
+		}
+		#search-input {
+			max-width: 140px;
+			font-size: 0.8em;
+		}
 	}
 </style>
+<script>
+	const input = document.getElementById('search-input') as HTMLInputElement | null;
+
+	// On non-blog pages: Enter key navigates to /blog?q=...
+	// On /blog: the blog index script handles real-time filtering instead
+	input?.addEventListener('keydown', (e: KeyboardEvent) => {
+		if (e.key === 'Enter' && !window.location.pathname.startsWith('/blog')) {
+			window.location.href = `/blog?q=${encodeURIComponent((e.target as HTMLInputElement).value)}`;
+		}
+	});
+
+	// Pre-fill the input if the page was loaded with a ?q= param (e.g. navigated from another page)
+	const params = new URLSearchParams(window.location.search);
+	const q = params.get('q');
+	if (q && input) input.value = q;
+</script>
