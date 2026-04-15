@@ -1,8 +1,8 @@
 # AI Digest — Project Instructions
 
-## Article style
+Before working on blog articles, read `.claude/rules/article-style.md` for current rules.
 
-See `.claude/rules/article-style.md` — tone, audience, content principles, safety, and article format rules (applies to `src/content/blog/**`).
+@.claude/rules/git-workflow.md
 
 ## Stack
 - Astro 6, TypeScript
@@ -17,22 +17,6 @@ See `.claude/rules/article-style.md` — tone, audience, content principles, saf
 - `src/pages/` — routes: index, blog, RSS
 - `src/styles/` — global styles
 - `src/assets/` — images and covers
-
-## Article format
-Each article is a `.md` file in `src/content/blog/`
-Frontmatter:
-
-```markdown
----
-title: 'Clear, calm title'
-description: 'Short supportive summary (2–3 sentences)'
-pubDate: 'YYYY-MM-DD'
-tags: ['motherhood', 'mental health']
-source: 'optional'
----
-
-Article body. 300–500 words.
-```
 
 ## Dev commands
 - `npm run dev` — dev server on :4321
