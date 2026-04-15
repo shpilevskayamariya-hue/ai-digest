@@ -1,48 +1,8 @@
 # AI Digest — Project Instructions
 
-## Project
-This is a blog focused on:
-- motherhood
-- mental health and psychology
-- life balance and recovery
-- emotional support for mothers
-- child health (practical, non-medical guidance)
-The goal:
-- help mothers feel calmer, supported, and informed  
-- avoid anxiety, guilt, and overwhelming tone 
+## Article style
 
-## Audience
-Primary audience:
-- mothers with babies (0–2 years)
-- tired, overwhelmed, seeking reassurance
-Secondary:
-- pregnancy / early motherhood
-
-## Tone and writing style
-- Warm, supportive, and human (not clinical or robotic)
-- Calm and reassuring, not alarming
-- Avoid judgment, pressure, or “perfect parenting” tone
-- Write as if speaking to a tired but thoughtful mother
-- Prefer simple, clear language
-Avoid:
-- fear-based statements
-- overly technical medical language
-- strong claims without nuance
-
-## Content principles
-- Gentle guidance instead of strict rules
-- Normalize struggles (sleep, feeding, emotions, burnout)
-- Respect different parenting styles
-- Do not shame or blame
-- Include small actionable tips
-- Suggest options, not one “correct” way
-
-## Safety 
-- Do NOT provide medical diagnosis
-- Do NOT give strict medical prescriptions
-- Always add soft disclaimers when needed:
-  "If you're concerned, it's best to consult a pediatrician."
-- Avoid absolute statements about child health
+See `.claude/rules/article-style.md` — tone, audience, content principles, safety, and article format rules (applies to `src/content/blog/**`).
 
 ## Stack
 - Astro 6, TypeScript
