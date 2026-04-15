@@ -2,7 +2,9 @@
 
 Before working on blog articles, read `.claude/rules/article-style.md` for current rules.
 
-@.claude/rules/git-workflow.md
+## Git
+
+Before committing code, read `.claude/rules/git-workflow.md` for branch and commit conventions.
 
 ## Stack
 - Astro 6, TypeScript
