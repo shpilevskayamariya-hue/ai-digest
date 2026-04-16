@@ -91,7 +91,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ## MEDIUM Priority — write after high
 
-### 6. Families Embrace "Analog Living" Anti-Smartphone Movement
+### 6. Families Embrace "Analog Living" Anti-Smartphone Movement ✅
+**File:** `2026-04-16-analog-living-offline-childhood.md`
 **Priority:** MEDIUM
 **Why:** Relevant to the audience, but a broader topic; applicable to mothers with children under 2.
 **Angle:** Practical ideas for a slow, offline childhood with a baby.
@@ -104,7 +105,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ---
 
-### 7. Global Childhood Obesity to Hit 228 Million by 2040
+### 7. Global Childhood Obesity to Hit 228 Million by 2040 ✅
+**File:** `2026-04-16-childhood-obesity-early-habits.md`
 **Priority:** MEDIUM
 **Why:** Child nutrition is an audience topic, but the headline is fear-based — requires careful framing.
 **Angle:** Early eating habits — what parents can do right now, without fear-mongering.
@@ -114,6 +116,48 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 - Driver: ultra-processed foods replacing whole foods
 **Disclaimer:** required (child health)
 **Tags:** `nutrition`, `child health`, `feeding`
+
+---
+
+### 8. Starting Solids: a Calm, No-Pressure Guide ✅
+**File:** `2026-04-16-starting-solids-calm-guide.md`
+**Priority:** MEDIUM
+**Why:** A top practical question for mothers with babies 5–7 months; high relevance to core audience.
+**Angle:** Reassure and normalize — no right way, no pressure, just guidance.
+**Key facts:**
+- Readiness signs: sitting up, no tongue-thrust reflex, interest in food
+- Two approaches: purees vs. baby-led weaning (both valid)
+- Mess, refusal, and slow progress are all normal
+**Disclaimer:** required (child health)
+**Tags:** `feeding`, `baby`, `nutrition`, `milestones`
+
+---
+
+### 9. Sensory Play Before 12 Months ✅
+**File:** `2026-04-16-sensory-play-before-12-months.md`
+**Priority:** MEDIUM
+**Why:** Practical and confidence-building for mothers with babies 0–12 months; no equipment needed.
+**Angle:** No special toys required — what you already have is enough.
+**Key facts:**
+- Sensory input supports motor, language, and attention development
+- Age-grouped ideas: 0–3m, 3–6m, 6–12m
+- Real-world feedback from touch and texture outperforms screen stimulation
+**Disclaimer:** not required
+**Tags:** `baby`, `play`, `development`
+
+---
+
+### 10. Countries Restricting Screens for Children — What It Means for Parents of Babies ✅
+**File:** `2026-04-16-raising-screen-free-baby.md`
+**Priority:** MEDIUM
+**Why:** Timely policy news reframed for the core audience — habits start in infancy, not at 14.
+**Angle:** Reassuring and practical, not alarmist — you're in the best position to set good habits early.
+**Key facts:**
+- Denmark, UK, Spain, Malaysia, and US states restricting under-14/16 social media access
+- Screen habits and attention patterns form in the first two years
+- Low-stimulation and real-world play supports infant brain development
+**Disclaimer:** not required
+**Tags:** `screen time`, `parenting`, `development`
 
 ---
 
@@ -130,12 +174,15 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ## Writing order
 
-| Order | Article |
-|-------|---------|
-| 1 | Postpartum Depression Diagnoses Nearly Doubled |
-| 2 | Mothers' Mental Health Reports Drop 12 Points |
-| 3 | New US Dietary Guidelines for Children |
-| 4 | Paid Family Leave Expands in US States |
-| 5 | Gen Z Parents Moving Away from Gentle Parenting |
-| 6 | Families Embrace Analog Living |
-| 7 | Global Childhood Obesity (careful angle) |
+| Order | Article | Status |
+|-------|---------|--------|
+| 1 | Postpartum Depression Diagnoses Nearly Doubled | ✅ done |
+| 2 | Mothers' Mental Health Reports Drop 12 Points | ✅ done |
+| 3 | New US Dietary Guidelines for Children | ✅ done |
+| 4 | Paid Family Leave Expands in US States | ✅ done |
+| 5 | Gen Z Parents Moving Away from Gentle Parenting | ✅ done |
+| 6 | Families Embrace Analog Living | ✅ done |
+| 7 | Global Childhood Obesity (careful angle) | ✅ done |
+| 8 | Starting Solids: a Calm Guide | ✅ done |
+| 9 | Sensory Play Before 12 Months | ✅ done |
+| 10 | Countries Restricting Screens — What It Means for Babies | ✅ done |
