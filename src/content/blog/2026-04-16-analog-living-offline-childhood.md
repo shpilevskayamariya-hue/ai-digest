@@ -2,7 +2,7 @@
 title: "Why more families are choosing a slower, less-digital childhood"
 description: "The 'analog living' trend is growing among parents who want more calm and less screen time. Here's what it actually looks like with a baby or toddler in your arms."
 pubDate: '2026-04-16'
-tags: ['screen time', 'parenting', 'wellbeing']
+tags: ['screen time', 'parenting', 'analog', 'wellbeing']
 ---
 
 Something quiet is happening among parents right now. Amid the noise of apps, alerts, and an always-on world, more and more families are choosing to slow down — to put the phone down and pick up a board game, go for an unhurried walk, or just sit on the floor with their baby and a wooden spoon.

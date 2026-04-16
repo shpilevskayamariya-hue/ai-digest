@@ -3,7 +3,6 @@ title: "Countries are restricting screens for teenagers. It begins in infancy."
 description: "Governments across the world are setting limits on social media for older children. But the habits and relationship with technology that shape our kids' lives start forming in the very first year."
 pubDate: '2026-04-16'
 tags: ['screen time', 'parenting', 'development']
-source: 'motherhood-child-news'
 ---
 
 Denmark, the UK, Spain, Malaysia, and several US states are all moving to restrict social media access for children under 14 or 16. It's a significant cultural shift — governments acknowledging what many parents already feel: that the relationship between children and screens has become something worth protecting.
