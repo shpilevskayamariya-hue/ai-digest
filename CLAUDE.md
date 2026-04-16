@@ -72,3 +72,11 @@ One-liner closing. Reassuring. Optional emoji. 💛
 - `npm run dev` — dev server on :4321
 - `npm run build` — production build
 - `npm run preview` — preview build
+
+## Compact Instructions
+
+When compacting, always preserve:
+- Editorial policy (style, word count, format, forbidden words).
+- Full list of articles written in this session (titles and filenames).
+- Current article in progress (if any).
+- Key decisions made during the session.
