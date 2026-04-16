@@ -1,4 +1,4 @@
-# AI Digest — Project Instructions
+# Little by Little — Project Instructions
 
 Before working on blog articles, read `.claude/rules/article-style.md` for tone, audience, and content principles.
 
