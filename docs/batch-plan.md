@@ -19,7 +19,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ## HIGH Priority — write first
 
-### 1. Postpartum Depression Diagnoses Nearly Doubled
+### 1. Postpartum Depression Diagnoses Nearly Doubled ✅
+**File:** `2026-04-16-postpartum-depression-diagnoses-doubled.md`
 **Priority:** HIGH
 **Why:** Directly relevant to mothers in the postpartum period — core audience topic.
 **Angle:** Not alarming, but normalizing: "you're not alone — it's more visible because talking about it has become normal."
@@ -32,7 +33,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ---
 
-### 2. Mothers' Mental Health Reports Drop 12 Points
+### 2. Mothers' Mental Health Reports Drop 12 Points ✅
+**File:** `2026-04-16-mothers-mental-health-declining.md`
 **Priority:** HIGH
 **Why:** Emotional wellbeing of mothers — directly on-topic for the digest.
 **Angle:** Validate mothers' exhaustion + gentle practical steps. Not a statistics horror story.
@@ -45,7 +47,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ---
 
-### 3. New US Dietary Guidelines for Children Released
+### 3. New US Dietary Guidelines for Children Released ✅
+**File:** `2026-04-16-us-dietary-guidelines-infants-toddlers.md`
 **Priority:** HIGH
 **Why:** Nutrition is a core topic for mothers with 0–2 year olds — directly in the audience's area of interest.
 **Angle:** What changed for infants and toddlers, explained in plain language.
@@ -58,7 +61,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ---
 
-### 4. Paid Family Leave Expands in US States
+### 4. Paid Family Leave Expands in US States ✅
+**File:** `2026-04-16-paid-family-leave-expanding.md`
 **Priority:** HIGH
 **Why:** Practically useful for new mothers; postpartum period is a core topic.
 **Angle:** What specifically changed and how it helps mothers with newborns.
@@ -71,7 +75,8 @@ Filtered against: `news-selection.md`, `editorial-policy.md`
 
 ---
 
-### 5. Gen Z Parents Moving Away from Extreme "Gentle Parenting"
+### 5. Gen Z Parents Moving Away from Extreme "Gentle Parenting" ✅
+**File:** `2026-04-16-gentle-parenting-shift.md`
 **Priority:** HIGH
 **Why:** A timely cultural shift in parenting; resonates strongly with young mothers.
 **Angle:** Not judgment, but relief — "saying no is okay."
