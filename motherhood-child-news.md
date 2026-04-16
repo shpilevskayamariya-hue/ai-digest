@@ -29,3 +29,13 @@
 14. **US Senate Prioritizes Maternal Mental Health in 2026 Budget** — 96% of the US birth-giving population lives in areas with too few perinatal mental health specialists. *(2025)*
 
 15. **Australia (NSW) Launches Child Safety Reforms** — New oversight regulations for childcare and early education settings. *(Apr 2026)*
+
+---
+
+## Week of April 9–16, 2026
+
+16. **Black Maternal Health Week — "Right from the Start" Event** — Montgomery County's Babies Born Healthy program held its 6th annual community event (April 11), covering breastfeeding, doula support, mental health, and fatherhood. Black births are 21% of all births but account for 35% of fetal/infant losses. [Source](https://www2.montgomerycountymd.gov/mcgportalapps/Press_Detail.aspx?Item_ID=48476)
+
+17. **Congress Passes 2026 Funding Bill with Maternal Health Investments** — Secured $113.5M for CDC Safe Motherhood programs (+$3M), $20M for maternal mental health, and $5M for newborn toolkits — saving programs that had been proposed for elimination. [Source](https://policycentermmh.org/congress-passes-2026-funding-bill-with-targeted-investments-in-maternal-health/)
+
+18. **Cochrane: Evidence-Based Maternal & Newborn Care 2026** — Key findings: magnesium sulphate before premature birth reduces cerebral palsy risk; caffeine therapy now included in WHO preterm infant guidelines; updated postpartum hemorrhage protocols launched. [Source](https://www.cochrane.org/about-us/news/maternal-health-awareness-day-2026-turning-evidence-safer-care-mothers-newborns-and-children)
