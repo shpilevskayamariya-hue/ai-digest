@@ -68,6 +68,21 @@ One-liner closing. Reassuring. Optional emoji. 💛
 
 > Cover images go in `src/assets/` and are referenced with a relative path from the article file.
 
+## Compact Instructions
+
+When compressing context, make sure to preserve:
+
+- The list of already written articles (title + file).
+- The current task and its status.
+- The architectural decisions made in the current session.
+- Errors that have already been found and fixed.
+
+Compressed summary format:
+
+- Written: [list of files].
+- In progress: [current task].
+- Decisions: [key decisions].
+
 ## Dev commands
 - `npm run dev` — dev server on :4321
 - `npm run build` — production build
